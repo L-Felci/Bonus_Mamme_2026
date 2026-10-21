@@ -1,0 +1,155 @@
+{
+  "normativa_generale": {
+    "titolo": "Nuovo Bonus Mamme 2026",
+    "legge_riferimento": "Articolo 1, comma 207, Legge 30 dicembre 2025, n. 199 (Legge di Bilancio 2026)",
+    "prassi_inps": "Circolare INPS n. 106 del 16/10/2026 e Messaggio INPS n. 3343 del 20/10/2026",
+    "importo_mensile": 60,
+    "importo_massimo_annuo": 720,
+    "limite_reddito": 40000,
+    "erogazione": "In un'unica soluzione nel mese di dicembre 2026 dall'INPS (o da gennaio 2027 se l'istruttoria si conclude successivamente)",
+    "scadenza_domanda": "31 dicembre 2026 (estesa al 31 gennaio 2027 per requisiti maturati a dicembre 2026)",
+    "regime_fiscale": "Esente da imposte e contributi, non rileva ai fini ISEE"
+  },
+  "faq": [
+    {
+      "id": 1,
+      "domanda": "Se il mio contratto di lavoro scade durante l'anno (es. 31 agosto 2026), ho diritto al bonus?",
+      "risposta": "Sì, il beneficio spetta pro-quota per ciascun mese o frazione di mese di vigenza del rapporto di lavoro nel 2026 (es. 8 mesi x 60 € = 480 €). La domanda può essere presentata dopo la cessazione, entro il 31 dicembre 2026, e l'importo verrà erogato a dicembre 2026.",
+      "fonte": "Circolare INPS 106/2026, par. 2 e 3",
+      "keywords": ["scade", "agosto", "cessazione", "scadenza", "fine contratto", "termine", "licenziamento", "dimissioni"]
+    },
+    {
+      "id": 2,
+      "domanda": "Quali tipi di lavoratrici hanno diritto al Nuovo Bonus Mamme 2026?",
+      "risposta": "Hanno diritto le lavoratrici madri dipendenti (pubbliche e private, inclusi contratti intermittenti, in somministrazione e apprendistato), le lavoratrici autonome iscritte alle gestioni speciali INPS (artigiane, commercianti, agricole), le iscritte alle Casse di Previdenza Professionali (es. Cassa Forense, CNPADC, ENPACL) e le iscritte alla Gestione Separata INPS.",
+      "fonte": "Legge 199/2025 art. 1 c. 207; Circolare INPS 106/2026 par. 2",
+      "keywords": ["categorie", "autonoma", "dipendente", "cassa", "gestione separata", "chi ha diritto", "spetta"]
+    },
+    {
+      "id": 3,
+      "domanda": "Le lavoratrici domestiche (colf, badanti) rientrano nel bonus?",
+      "risposta": "Attualmente i rapporti di lavoro domestico sono espressamente esclusi dalla legge (art. 1 c. 207 L. 199/2025). Nota: il Tribunale di Milano ha sollevato questione di legittimità costituzionale alla Consulta per presunta discriminazione, ma allo stato attuale la domanda per lavoro domestico non viene accolta dall'INPS.",
+      "fonte": "Circolare INPS 106/2026 e Ord. Trib. Milano 8068/2026",
+      "keywords": ["domestica", "colf", "badante", "babysitter", "lavoro domestico", "esclusione"]
+    },
+    {
+      "id": 4,
+      "domanda": "Quali sono i requisiti di età e numero di figli?",
+      "risposta": "1) Madri di 2 figli (compresi adottati o in affidamento preadottivo): il figlio più piccolo deve avere un'età inferiore a 10 anni (il bonus spetta fino al mese di compimento dei 10 anni).\n2) Madri di 3 o più figli: il figlio più piccolo deve avere un'età inferiore a 18 anni (fino al mese di compimento dei 18 anni).",
+      "fonte": "Circolare INPS 106/2026 par. 2.1",
+      "keywords": ["figli", "età", "10 anni", "18 anni", "quanti figli", "requisiti figli"]
+    },
+    {
+      "id": 5,
+      "domanda": "Cosa cambia per le madri con 3 o più figli se hanno un contratto a tempo indeterminato?",
+      "risposta": "Per le madri con 3 o più figli e contratto a tempo indeterminato, il Nuovo Bonus Mamme NON spetta, poiché a esse si applica già l'esonero contributivo IVS al 100% (ex art. 1 c. 180 L. 213/2023). Il bonus 2026 spetta loro soltanto nei mesi in cui il rapporto sia a tempo determinato o di lavoro autonomo.",
+      "fonte": "Legge 199/2025 art. 1 c. 207; Circolare INPS 106/2026 par. 2.2",
+      "keywords": ["3 figli", "tempo indeterminato", "esonero ivs", "sgravio", "tre figli"]
+    },
+    {
+      "id": 6,
+      "domanda": "Come si calcola il limite di reddito dei 40.000 euro?",
+      "risposta": "Si considera la somma dei redditi da lavoro (dipendente e/o autonomo) percepiti nel 2026, al lordo di esenzioni o regimi agevolati, ma al netto dei contributi previdenziali obbligatori a carico della lavoratrice. Rientrano anche le indennità di maternità, malattia e cassa integrazione.",
+      "fonte": "Circolare INPS 106/2026 par. 2.3",
+      "keywords": ["reddito", "40000", "limite", "calcolo reddito", "lordo", "netto"]
+    },
+    {
+      "id": 7,
+      "domanda": "I periodi di NASpI, DIS-COLL o la pensione contano per i 40.000 euro o per i mesi di bonus?",
+      "risposta": "NO. Le prestazioni di disoccupazione (NASpI, DIS-COLL) e i trattamenti pensionistici non contano ai fini del calcolo del reddito di 40.000 €. Inoltre, i mesi coperti da NASpI/DIS-COLL non sono mesi di vigenza di rapporto di lavoro, quindi non danno diritto alla quota mensile di 60 €.",
+      "fonte": "Circolare INPS 106/2026 par. 2.3; Messaggio INPS 3343/2026",
+      "keywords": ["naspi", "disoccupazione", "pensione", "dis-coll", "disoccupata"]
+    },
+    {
+      "id": 8,
+      "domanda": "Come e dove si presenta la domanda INPS?",
+      "risposta": "La domanda si presenta esclusivamente in via telematica sul portale www.inps.it seguendo il percorso: 'Sostegni, Sussidi e Indennità' > 'Per genitori' > 'Nuovo Bonus mamme'. Accesso tramite SPID (livello 2), CIE 3.0, CNS o eIDAS, oppure tramite Contact Center (803.164) o Patronati.",
+      "fonte": "Messaggio INPS 3343 del 20/10/2026",
+      "keywords": ["domanda", "come fare domanda", "spid", "cie", "patronato", "sito inps", "procedura"]
+    },
+    {
+      "id": 9,
+      "domanda": "Quando viene pagato il bonus dall'INPS?",
+      "risposta": "Il pagamento avviene in un'unica soluzione nel mese di dicembre 2026 per tutte le mensilità maturate nel corso dell'anno. Qualora l'istruttoria non si concluda in tempo, i pagamenti saranno effettuati a partire da gennaio 2027.",
+      "fonte": "Messaggio INPS 3343/2026 par. 3",
+      "keywords": ["pagamento", "quando paga", "dicembre", "erogazione", "quando arrivano i soldi"]
+    },
+    {
+      "id": 10,
+      "domanda": "Il bonus incide sull'ISEE o sulle tasse (IRPEF)?",
+      "risposta": "NO. Il Nuovo Bonus Mamme 2026 è totalmente esente da imposte fiscali e contributi previdenziali e NON rileva ai fini del calcolo dell'ISEE. Non serve allegare la DSU o la certificazione ISEE per fare domanda.",
+      "fonte": "Legge 199/2025 art. 1 c. 207; Circolare INPS 106/2026 par. 5",
+      "keywords": ["isee", "tasse", "irpef", "730", "dichiarazione redditi", "esente"]
+    },
+    {
+      "id": 11,
+      "domanda": "Il datore di lavoro deve fare qualcosa o erogare il bonus in busta paga?",
+      "risposta": "NO. Il datore di lavoro non ha alcun adempimento da svolgere e non eroga l'importo in busta paga. Il bonus è richiesto direttamente dalla lavoratrice all'INPS ed è pagato esclusivamente dall'Istituto mediante accredito sul conto corrente o bonifico.",
+      "fonte": "Circolare INPS 106/2026 par. 4",
+      "keywords": ["datore", "azienda", "busta paga", "datore di lavoro", "sostituto d'imposta"]
+    },
+    {
+      "id": 12,
+      "domanda": "I contratti di apprendistato e part-time danno diritto al bonus?",
+      "risposta": "Sì, sia i contratti di apprendistato sia i contratti di lavoro a tempo parziale (part-time orizzontale, verticale o misto) rientrano pienamente tra i rapporti di lavoro dipendente che danno diritto all'importo intero di 60 € per ciascun mese di vigenza del contratto.",
+      "fonte": "Circolare INPS 106/2026 par. 2.1",
+      "keywords": ["apprendistato", "part-time", "orario ridotto", "part time"]
+    },
+    {
+      "id": 13,
+      "domanda": "Cosa succede in caso di congedo di maternità o congedo parentale nel 2026?",
+      "risposta": "I periodi di congedo di maternità (obbligatoria o interdizione anticipata) e di congedo parentale conservano la vigenza del rapporto di lavoro dipendente. Pertanto, i mesi trascorso in congedo nel 2026 sono considerati mesi utili ai fini del diritto alla quota mensile di 60 €.",
+      "fonte": "Circolare INPS 106/2026 par. 2.2",
+      "keywords": ["maternità", "congedo", "maternità obbligatoria", "parentale", "astensione"]
+    },
+    {
+      "id": 14,
+      "domanda": "È possibile ricevere il pagamento su carta ricaricabile con IBAN come la Postepay Evolution?",
+      "risposta": "Sì, l'accredito può essere effettuato su conto corrente bancario o postale, libretto postale o carta ricaricabile dotata di codice IBAN (es. Postepay Evolution) intestata o cointestata alla richiedente.",
+      "fonte": "Messaggio INPS 3343/2026 par. 4",
+      "keywords": ["iban", "postepay", "carta", "conto", "bonifico", "accredito"]
+    },
+    {
+      "id": 15,
+      "domanda": "Qual è la data di scadenza per presentare la domanda e quando apre la procedura?",
+      "risposta": "La procedura telematica di presentazione delle domande è ufficialmente aperta dal 20 ottobre 2026. La scadenza ordinaria per l'invio è il 31 dicembre 2026. Qualora i requisiti maturino nel mese di dicembre 2026, la domanda può essere inviata entro il 31 gennaio 2027.",
+      "fonte": "Messaggio INPS 3343/2026 par. 1 e 2",
+      "keywords": ["scadenza", "da quando", "termine", "apertura", "fino a quando"]
+    },
+    {
+      "id": 16,
+      "domanda": "Se ho commesso un errore nella compilazione dell'IBAN o dei dati dei figli, posso rettificare?",
+      "risposta": "Sì, accedendo al portale INPS con le proprie credenziali all'interno della stessa procedura 'Nuovo Bonus mamme', è possibile consultare lo stato della domanda e selezionare la funzione di modifica dati o variazione IBAN.",
+      "fonte": "Messaggio INPS 3343/2026 par. 4",
+      "keywords": ["errore", "modifica", "rettifica", "cambiare iban", "sbagliato"]
+    },
+    {
+      "id": 17,
+      "domanda": "Se mi sono dimessa o sono stata licenziata nel 2026, ho comunque diritto al bonus?",
+      "risposta": "Sì, il diritto al bonus matura pro-quota per i mesi o frazioni di mese in cui il contratto di lavoro è stato attivo prima della cessazione (dimissioni o licenziamento). Per tali mesi spettano 60 €/mese.",
+      "fonte": "Circolare INPS 106/2026 par. 3",
+      "keywords": ["dimissioni", "licenziamento", "licenziata", "dimessa", "interruzione"]
+    },
+    {
+      "id": 18,
+      "domanda": "I periodi di Cassa Integrazione (CIGO/CIGS/FIS) o malattia danno diritto al bonus?",
+      "risposta": "Sì, durante la Cassa Integrazione Guadagni o gli eventi di malattia il rapporto di lavoro rimane in essere a tutti gli effetti di legge, pertanto i mesi coperti da tali istituti sono conteggiati ai fini del bonus.",
+      "fonte": "Circolare INPS 106/2026 par. 2.2",
+      "keywords": ["cassa integrazione", "cig", "cigo", "cigs", "malattia", "fis"]
+    },
+    {
+      "id": 19,
+      "domanda": "Il Nuovo Bonus Mamme 2026 è cumulabile con l'Assegno Unico e Universale (AUU)?",
+      "risposta": "Sì, il Nuovo Bonus Mamme 2026 è pienamente cumulabile con l'Assegno Unico e Universale per i figli a carico e con ogni altro sussidio o sostegno alla genitorialità.",
+      "fonte": "Circolare INPS 106/2026 par. 5",
+      "keywords": ["assegno unico", "auu", "cumulabile", "cumulo", "altri bonus"]
+    },
+    {
+      "id": 20,
+      "domanda": "I figli in adozione o in affidamento danno diritto al beneficio?",
+      "risposta": "Sì, ai fini del calcolo del numero dei figli e del limite di età (10 anni per 2 figli, 18 anni per 3 o più figli), i figli adottati o in affidamento preadottivo sono equiparati a tutti gli effetti ai figli biologici.",
+      "fonte": "Circolare INPS 106/2026 par. 2.1",
+      "keywords": ["adozione", "affidamento", "adottati", "affidati", "figli adottivi"]
+    }
+  ]
+}
